@@ -1,2 +1,2 @@
 require("khanhnv.remap")
-print("Hello from Khanh Nguyen")
+require("khanhnv.set")
